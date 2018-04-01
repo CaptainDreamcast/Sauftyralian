@@ -1,0 +1,97 @@
+[AnimationDef 1]
+
+[Interpolation]
+time = 0
+posX = 320.0
+
+[Interpolation]
+time = 100
+posX = 0
+
+[AnimationDef 2]
+loop = 0
+
+[Interpolation]
+time = 0
+posX = 320.0
+
+[Interpolation]
+time = 100
+posX = 640
+
+[AnimationDef 3]
+loop = 0
+
+[Interpolation]
+time = 0
+posY = 200.0
+
+[Interpolation]
+time = 50
+posY = -100
+
+[AnimationDef 4]
+loop = 0
+
+[Interpolation]
+time = 0
+scale = 1.0
+angle = 0
+
+[Interpolation]
+time = 600
+scale = 15
+angle = 3
+
+
+
+
+
+
+
+
+[AnimationDef 11]
+
+[Interpolation]
+time = 0
+posX = 0
+
+[Interpolation]
+time = 100
+posX = 320.0
+
+[AnimationDef 12]
+loop = 0
+
+[Interpolation]
+time = 0
+posX = 640
+
+[Interpolation]
+time = 100
+posX = 320.0
+
+[AnimationDef 13]
+loop = 0
+
+[Interpolation]
+time = 0
+posY = -100
+
+[Interpolation]
+time = 50
+posY = 200.0
+
+[AnimationDef 14]
+loop = 0
+
+[Interpolation]
+time = 0
+scale = 5
+angle = 3
+
+[Interpolation]
+time = 100
+scale = 1.0
+angle = 0
+

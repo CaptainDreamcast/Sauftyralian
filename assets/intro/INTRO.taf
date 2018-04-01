@@ -1,0 +1,10 @@
+[AnimationDef 1]
+loop = 0
+
+[Interpolation]
+time = 0
+scale = 1.0
+
+[Interpolation]
+time = 600
+scale = 100

@@ -1,0 +1,114 @@
+[AnimationDef 1]
+loop = 0
+
+[Interpolation]
+time = 0
+scale = 10
+
+[Interpolation]
+time = 40
+scale = 1
+
+
+[AnimationDef 10]
+loop = 0
+
+[Interpolation]
+time = 0
+posX = -100
+posY = 400
+
+[Interpolation]
+time = 300
+posX = 250
+posY = 420
+
+[Set]
+time = 299
+mugenanimation = 10
+
+
+[AnimationDef 11]
+loop = 0
+
+[Set]
+time = 0
+mugenfacedirection = 0
+
+[Interpolation]
+time = 0
+posX = 740
+posY = 400
+
+[Interpolation]
+time = 320
+posX = 380
+posY = 430
+
+[Set]
+time = 319
+mugenanimation = 10
+
+
+[AnimationDef 12]
+loop = 0
+
+[Set]
+time = 0
+mugenfacedirection = 0
+
+[Interpolation]
+time = 0
+posX = 740
+posY = 400
+
+[Interpolation]
+time = 280
+posX = 350
+posY = 410
+
+[Set]
+time = 279
+mugenanimation = 10
+
+[AnimationDef 13]
+loop = 0
+
+[Set]
+time = 0
+mugenfacedirection = 1
+
+[Interpolation]
+time = 0
+posX = -100
+posY = 410
+
+[Interpolation]
+time = 330
+posX = 290
+posY = 410
+
+[Set]
+time = 329
+mugenanimation = 10
+
+[AnimationDef 14]
+loop = 0
+
+[Set]
+time = 0
+mugenfacedirection = 0
+
+[Interpolation]
+time = 0
+posX = 740
+posY = 400
+
+[Interpolation]
+time = 320
+posX = 400
+posY = 430
+
+[Set]
+time = 319
+mugenanimation = 10

@@ -1,0 +1,70 @@
+
+
+[Begin Action 1]
+Clsn2: 1
+  Clsn2[0] = 0, 0, 31, 31
+1,1, 0,0, 10
+
+[Begin Action 2]
+Clsn2: 1
+  Clsn2[2] = 0, 0, 31, 31
+1,2, 0,0, 10
+
+[Begin Action 6]
+Clsn2: 1
+  Clsn2[0] = 0, 0, 31, 31
+1,4, 0,0, 10
+
+[Begin Action 10]
+Clsn2: 1
+  Clsn2[0] = 0, 0, 31, 31
+1,8, 0,0, 10
+
+[Begin Action 11]
+Clsn2: 1
+  Clsn2[0] = 0, 0, 31, 31
+1,9, 0,0, 10
+
+[Begin Action 15]
+Clsn2: 1
+  Clsn2[0] = 0, 0, 31, 31
+1,13, 0,0, 10
+
+[Begin Action 101]
+1,101, 0,0, 10
+
+[Begin Action 105]
+1,105, 0,0, 10
+
+[Begin Action 109]
+1,109, 0,0, 10
+
+[Begin Action 113]
+1,113, 0,0, 10
+
+[Begin Action 201]
+Clsn1: 1
+  Clsn1[0] = 0, 4, 31, 31
+1,201, 0,0, 10
+
+[Begin Action 202]
+Clsn2: 1
+  Clsn2[0] = 0, 0, 31, 31
+1,202, 0,0, 10
+
+[Begin Action 203]
+Clsn2: 1
+  Clsn2[0] = 0, 0, 31, 31
+1,203, 0,0, 10
+
+[Begin Action 204]
+1,204, 0,0, 10
+
+[Begin Action 205]
+1,205, 0,0, 10
+
+[Begin Action 1000]
+1000,0, 0,0, 10
+
+[Begin Action 1001]
+1001,0, 0,0, 10

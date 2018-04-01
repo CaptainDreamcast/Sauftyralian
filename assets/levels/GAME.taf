@@ -1,0 +1,37 @@
+[AnimationDef 1]
+loop = 0
+
+[Interpolation]
+time = 0
+scale = 10
+
+[Interpolation]
+time = 40
+scale = 1
+
+[AnimationDef 2]
+loop = 0
+
+[Interpolation]
+time = 0
+scale = 1
+
+[Interpolation]
+time = 40
+scale = 10
+
+
+[AnimationDef 1000]
+loop = 1
+
+[Interpolation]
+time = 0
+mugentransparency = 0.3
+
+[Interpolation]
+time = 30
+mugentransparency = 0.7
+
+[Interpolation]
+time = 60
+mugentransparency = 0.3
